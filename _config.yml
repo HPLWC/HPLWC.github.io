@@ -28,7 +28,7 @@ defaults:
 paginate: 20
 
 #### Site
-title : HPC
+title : ---
 tagline: 好像暂时没什么事好做可以写......
 assets: /assets
 url:
