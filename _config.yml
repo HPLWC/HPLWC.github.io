@@ -28,8 +28,8 @@ defaults:
 paginate: 20
 
 #### Site
-title : ---
-tagline: 好像暂时没什么事好做可以写......
+title : 下雨收衫的博客
+tagline: 多做好事......
 assets: /assets
 url:
 baseurl:
@@ -57,7 +57,7 @@ widgets:
 - links
 - douban
 - github-card
-- rss
+## rss
 ## provide seven widgets:github-card,category,tag,rss,archive,tagcloud,links,weibo,douban
 
 
@@ -85,8 +85,8 @@ share_to: true #enable share-to buttons if true
 #### Author information
 author:
   name: 下雨收衫      ## e.g. wuchong Author name
-  intro_line1:  "前端开发渣渣辉"    ## your introduction on the bottom of the page
-  intro_line2:  "学习学习......"  ## the 2nd line
+  intro_line1:  ""    ## your introduction on the bottom of the page
+  intro_line2:  ""  ## the 2nd line
   weibo:      ## e.g. wuchong1014 or 2176287895 for http://weibo.com/2176287895
   weibo_verifier:  ## e.g. b3593ceb Your weibo-show widget verifier ,if you use weibo-show it is needed.
   tsina:      ## e.g. 2176287895  Your weibo ID,It will be used in share button.
@@ -111,7 +111,7 @@ toc:
 #### Links
 links:
   码农圈: https://coderq.com
-  Jark's Blog: http://wuchong.me
+  HPC's Blog: http://hplwc.github.io
 
 #### Comment
 duoshuo_shortname:    ## e.g. wuchong      your duoshuo short name.       website: http://duoshuo.com
